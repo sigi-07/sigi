@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: "Georgia", serif;
+    background-color: #f4f1ec;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    border-radius: 12px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    color: #2e4d2f;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.untertitel {
+    font-size: 1.1rem;
+    color: #555;
+}
+
+.portrait {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.portrait img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border: 4px solid #2e4d2f;
+    margin-bottom: 1rem;
+}
+
+.geburtsdaten {
+    color: #666;
+    font-style: italic;
+}
+
+.text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+blockquote {
+    margin: 1.5rem 0;
+    padding-left: 1rem;
+    border-left: 4px solid #7a9d7b;
+    color: #4c614d;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+    margin-top: 3rem;
+    font-weight: bold;
+    color: #2e4d2f;
+}
